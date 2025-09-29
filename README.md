@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm Andrej Glavnik</h1>
-<h3 align="center">A passionate Technical Support & Software Development Specialist</h3>
-
----
-
-**Andrej Glavnik** – Technical Support & Software Development Specialist. Experienced in Python, SQL, API integrations, SaaS, and IT infrastructure. Passionate about automation, cybersecurity, and building solutions that improve operational efficiency.
+<h3 align="center">A passionate Technical Support & Business Development Specialist</h3>
 
 ---
 
