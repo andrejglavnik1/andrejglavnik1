@@ -72,16 +72,6 @@ Feel free to reach out for technical advice, collaborations, or freelance projec
 - LinkedIn: [linkedin.com/in/andrejglavnik](https://www.linkedin.com/in/andrejglavnik/)  
 - Website: [andrejglavnik1.github.io](https://andrejglavnik1.github.io/simple-website/)  
 - Blog: [Medium Blog](https://medium.com/@glavnikandrej1)  
-
----
-
-## 🏆 Achievements
-
-- Resolved 6500+ support tickets with 95% satisfaction rating at Databox  
-- L3 Technical Support for Walmart POS systems, reducing downtime by 30%  
-- 4th Place – Lego Robotics World Olympiad Championship 2021, China  
-- 1st Place – Lego Robotics Serbia Championship 2020
-
 ---
 
 <h3 align="left">Connect with me:</h3>
