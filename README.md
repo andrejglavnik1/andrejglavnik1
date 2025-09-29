@@ -39,4 +39,5 @@ I work across technical support, sales engineering, SaaS integrations, and netwo
 
 - Email: glavnikandrej1@gmail.com  
 - LinkedIn: [linkedin.com/in/andrejglavnik](https://www.linkedin.com/in/andrejglavnik/)  
-- Website: [andrejglavnik1.github.io](https://andrejglavnik1.github.io/simple-website/)  
+- Website: [andrejglavnik1.github.io](https://andrejglavnik1.github.io/simple-website/)
+- Blog: [Medimum.com](https://medium.com/@glavnikandrej1)
